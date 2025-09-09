@@ -12,6 +12,8 @@ When you store raw HTML inside `wp_options`, many hosts run filters that silentl
 
 ---
 
+For a concrete, production-like layout and structure, see a working page in the wild: https://all-promokod-bonus.ru/promokody/on-x-casino-promokod-i-bonusy
+
 ## Features
 
 - **Auto-append under single posts** (toggleable in settings).
