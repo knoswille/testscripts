@@ -51,12 +51,12 @@ For a concrete, production-like layout and structure, see a working page in the 
       <div class="apb-card__logo">
         <img src="LOGO_URL" alt="BRAND" loading="lazy">
       </div>
-      <a class="apb-chip apb-chip--brand" href="/promokody/brand" rel="nofollow">Overview</a>
+      <a class="apb-chip apb-chip--brand" href="" rel="nofollow">Overview</a>
     </div>
     <h3 class="apb-card__title">BRAND</h3>
     <ul class="apb-card__perks">
-      <li>🎁 100% deposit bonus</li>
-      <li>🎰 100 free spins</li>
+      <li>🎁 100% bonus</li>
+      <li>🎰 100 spins</li>
     </ul>
     <div class="apb-card__code">
       Promo code: <b>PROMO_CODE</b>
