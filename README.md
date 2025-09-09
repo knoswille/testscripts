@@ -49,7 +49,7 @@ For a concrete, production-like layout and structure, see a working page in the 
   <article class="apb-card">
     <div class="apb-card__head">
       <div class="apb-card__logo">
-        <img src="LOGO_URL" alt="BRAND" loading="lazy">
+        <img src="" alt="BRAND" loading="lazy">
       </div>
       <a class="apb-chip apb-chip--brand" href="" rel="nofollow">Overview</a>
     </div>
