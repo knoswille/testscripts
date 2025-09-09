@@ -44,7 +44,7 @@ For a concrete, production-like layout and structure, see a working page in the 
 
 ## Example HTML you can paste
 
-
+```html
 <section class="apb-grid">
   <article class="apb-card">
     <div class="apb-card__head">
