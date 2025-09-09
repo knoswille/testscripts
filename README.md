@@ -42,7 +42,7 @@ When you store raw HTML inside `wp_options`, many hosts run filters that silentl
 
 ## Example HTML you can paste
 
-```html
+
 <section class="apb-grid">
   <article class="apb-card">
     <div class="apb-card__head">
